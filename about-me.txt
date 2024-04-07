@@ -15,4 +15,4 @@ commands learned till now:
 
 I am writing this line in branch main.
 
-I am making this change as a different developer working directly on code written at Github
+I am making this change as a different developer working directly on code written at Github.
